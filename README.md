@@ -1,0 +1,2 @@
+# templates
+Public template view
